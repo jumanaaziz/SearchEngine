@@ -7,6 +7,7 @@ class Node<T>{
     }
 
 }
+//this is a test
 
 public class LinkedList<T> implements List<T>{   //interface for class linkedlist
     private Node<T> head;
